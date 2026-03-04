@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "corp_activity",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
